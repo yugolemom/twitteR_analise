@@ -1,0 +1,17 @@
+library(ggplot2)
+library(dplyr)
+library(twitteR)
+library(ROAuth)
+library(plyr)
+library(stringr)
+
+library(tm)
+library(wordcloud)
+
+library(quanteda)
+# library(stringi)
+#library(RColorBrewer)
+# library(tidytext)
+# library(widyr)
+#library(igraph)
+#library(ggraph)
